@@ -4,7 +4,7 @@ const motivosParaAmar = [
     '"Você é meu porto seguro."',
     '"Quando estamos juntas, todos os meus problemas desaparecem."',
     '"Você faz o meu coração sorrir."',
-    '"Você me conhece mais do que eu mesma."',
+    '"Você me conhece mais do que eu mesmo."',
     '"Você me apoia em todas as minhas decisões."',
     '"Você me faz sorrir quando ninguém mais consegue."',
     '"Eu sou 100% feliz quando estou ao seu lado."',
@@ -34,14 +34,14 @@ const motivosParaAmar = [
     '"Você coloca as minhas necessidades na frente das suas."',
     '"Seus lábios me derretem."',
     '"Seus abraços me confortam."',
-    '"Seus beijos me deixam com as pernas bambas."',
+    '"Seus beijos me deixam com calafrios."',
     '"Você sempre acorda com um sorriso no rosto."',
     '"Você me faz rir, mesmo quando estou com vontade de chorar."',
     '"Você me entende, mesmo quando estou sendo irracional."',
     '"Você me aceita como sou."',
     '"Você sonha os meus sonhos comigo."',
     '"A vida é mais alegre ao seu lado."',
-    '"Estamos conectadas, mesmo quando estamos em uma multidão."',
+    '"Estamos conectados, mesmo quando estamos em uma multidão."',
     '"Você respeita os meus limites."',
     '"Você me mostrou o seu coração."',
     '"Você coloca tudo em perspectiva."',
@@ -59,7 +59,6 @@ const motivosParaAmar = [
     '"Você é a primeira pessoa que me vem à mente quando acordo."',
     '"A palavra beleza tem o significado do seu rosto."',
     '"Seu sorriso ilumina os meus dias mais sombrios."',
-    // Adicione mais motivos aqui...
 ];
 
 
